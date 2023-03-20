@@ -24,20 +24,7 @@ chotěm doma i v práci?
 Otevřené materiály pro výuku Pythonu – jak na organizovaných kurzech,
 tak pro samouky.
 
-Dostupné na [naucse.python.cz](https://naucse.python.cz).
 
-
-## Instalace a spuštění
-
-Chceš-li server spustit na svém počítači, např. proto, že se chceš zapojit
-do vývoje, je potřeba ho nejdřív nainstalovat:
-
-* Přepni se do adresáře s kódem projektu.
-* Nainstaluj `poetry`. Můžeš instalovat podle [oficiálního návodu](https://python-poetry.org/docs/#installation), nebo:
-
-  * Vytvoř a aktivuj si [virtuální prostředí](https://naucse.python.cz/lessons/beginners/install/) v Pythonu 3.9+.
-
-  * Linux/MacOS:
 
     ```console
     $ python3 -m pip install poetry
